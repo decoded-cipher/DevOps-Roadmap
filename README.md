@@ -45,4 +45,20 @@
          1. Google Deployment Manager
          2. AWS Cloud Formation
 6. CI/CD
-7. 
+   1. Jenkins
+   2. Circle CI
+   3. Travis CI
+   4. GitHub Actions
+   5. GitLab CI
+   6. Bitucket Pipeline
+   7. AWS Code Pipeline
+   8. Google Cloudbuild
+7. Monitoring and Logging
+   1. Promethus
+   2. Grafana
+   3. Thanos
+8. Cloud
+   1. Amazon Web Services
+   2. Google Cloud Platform
+   3. Microsoft Azure
+
